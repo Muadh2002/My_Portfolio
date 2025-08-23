@@ -83,7 +83,7 @@ const Hero = () => {
             <div className="relative w-full h-full rounded-full p-1 bg-gradient-to-r from-primary to-secondary">
               <div className="w-full h-full rounded-full overflow-hidden border-4 border-background">
                 <img 
-                  src="../../last.png"  // Replace with your image path
+                  src="../public/last.png"  // Replace with your image path
                   alt="Mohamed Muadh"
                   className="w-full h-full object-cover"
                 />
